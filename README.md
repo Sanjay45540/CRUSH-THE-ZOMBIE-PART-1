@@ -1,1 +1,2 @@
-# CRUSH-THE-ZOMBIE-PART-1
+# zombie-crush-1
+project solution for c29
